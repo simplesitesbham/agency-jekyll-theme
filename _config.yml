@@ -11,7 +11,7 @@ description: "We build, host, and maintain simple websites for businesses that v
 people:
 - name: Robert James
   pic: 1
-  position: Lead Designer, Marketer
+  position: Owner, Lead Marketer
   social:
     - title: twitter
       url: # https://twitter.com/robtherover
@@ -20,9 +20,9 @@ people:
     - title: linkedin
       url: # https://www.linkedin.com/in/roverbyrobert
 
-- name: Larry Parker
+- name: Nicole Mubarak
   pic: 2
-  position: Lead Marketer
+  position: Lead Designer
   social:
     - title: twitter
       url: #
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Andrew Cartwright
   pic: 3
   position: Lead Developer
   social:
