@@ -2,19 +2,19 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Simple Sites Birmingham
+email: simplesitesbham@gmail.com
+description: "We build, host, and maintain simple websites for businesses that value modern, minimal design. Don't hire another full-time employee. Hire us."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Robert James
   pic: 1
-  position: Lead Designer
+  position: Lead Designer, Marketer
   social:
     - title: twitter
-      url: #
+      url: # https://twitter.com/robtherover
     - title: facebook
       url: #
     - title: stack-overflow
@@ -50,15 +50,15 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/simplesitesbham/agency-jekyll-theme
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1500 1st Avenue North
+  - line: Birmingham, AL 35205
 
 # Build settings
 markdown: kramdown
