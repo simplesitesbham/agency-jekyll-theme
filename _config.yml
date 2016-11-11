@@ -4,7 +4,7 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: Simple Sites Birmingham
 email: simplesitesbham@gmail.com
-description: "We build, host, and maintain simple websites for businesses that value modern, minimal design. Don't hire another full-time employee. Hire us."
+description: "Simple Sites Birmingham is the only complete website management provider in Birmingham. We build, host and maintain simple websites for businesses that value modern design. Don't hire another full-time employee. Hire simple."
 
 
 # Team names, titles and social links
@@ -44,16 +44,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url:
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/simplesitesbham/agency-jekyll-theme
+    url: https://github.com/simplesitesbham
 
 # Postal address (add as many lines as necessary)
 address:
