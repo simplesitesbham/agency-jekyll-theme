@@ -14,11 +14,11 @@ people:
   position: Owner, Lead Marketer
   social:
     - title: twitter
-      url: # https://twitter.com/robtherover
+      url: https://twitter.com/robtherover
     - title: facebook
       url: #
     - title: linkedin
-      url: # https://www.linkedin.com/in/roverbyrobert
+      url: https://www.linkedin.com/in/roverbyrobert
 
 - name: Nicole Mubarak
   pic: 6
@@ -29,7 +29,7 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: # https://www.linkedin.com/in/nicolemubarak
+      url: https://www.linkedin.com/in/nicolemubarak
 
 - name: Andrew Cartwright
   pic: 5
@@ -40,7 +40,7 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: # https://www.linkedin.com/in/andrewlloydcartwright
+      url: https://www.linkedin.com/in/andrewlloydcartwright
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
