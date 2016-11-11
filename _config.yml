@@ -10,7 +10,7 @@ description: "We build, host, and maintain simple websites for businesses that v
 # Team names, titles and social links
 people:
 - name: Robert James
-  pic: 5
+  pic: 4
   position: Owner, Lead Marketer
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: # https://www.linkedin.com/in/roverbyrobert
 
 - name: Nicole Mubarak
-  pic: 2
+  pic: 6
   position: Lead Designer
   social:
     - title: twitter
@@ -29,18 +29,18 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: # https://www.linkedin.com/in/nicolemubarak
 
 - name: Andrew Cartwright
-  pic: 3
+  pic: 5
   position: Lead Developer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: # https://www.linkedin.com/in/andrewlloydcartwright
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
