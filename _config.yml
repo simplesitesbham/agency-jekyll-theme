@@ -15,8 +15,8 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/robtherover
-    - title: facebook
-      url: #
+    - title: github
+      url: https://github.com/rovermodernretail
     - title: linkedin
       url: https://www.linkedin.com/in/roverbyrobert
 
@@ -26,8 +26,8 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
+    - title: github
+      url: https://github.com/nik4mub
     - title: linkedin
       url: https://www.linkedin.com/in/nicolemubarak
 
@@ -36,9 +36,9 @@ people:
   position: Lead Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/ItsATLC
+    - title: github
+      url: https://github.com/andrewlloydcartwright
     - title: linkedin
       url: https://www.linkedin.com/in/andrewlloydcartwright
 
