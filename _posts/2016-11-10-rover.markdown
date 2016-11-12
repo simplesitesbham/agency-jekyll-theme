@@ -1,14 +1,12 @@
 ---
 title: Rover
-subtitle: Full Service
 layout: default
 modal-id: 1
-date: 2016-10-01
+date: 2016-11-1
 img: rover_screenshot.png
 thumbnail: rovercart-2.png
 alt: Rover
 project-date: October 2016
 client: Rover
-category: Full Service
 description: Rover is a mobile app that lets users search for nearby products in real-time, make the most efficient shopping route, and buy products from anywhere. It's still in development, so keep your eyes open!
 ---
