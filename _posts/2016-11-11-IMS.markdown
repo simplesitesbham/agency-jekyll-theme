@@ -7,5 +7,5 @@ img: IMS_main.png
 thumbnail: IMS_nail.png
 alt: Integrated Media Systems
 project-date: November 2016
-client: Integrated Media Solutions
-description: Integrated Media Solutions provides custom technology solutions to your home or office. It's high tech without the high stress.
+client: Integrated Media Systems
+description: Integrated Media Systems provides custom technology solutions to your home or office. It's high tech without the high stress.
