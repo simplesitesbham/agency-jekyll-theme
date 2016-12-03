@@ -1,0 +1,14 @@
+---
+title: Integrated Media Systems
+layout: default
+modal-id: 2
+date: 2016-12-2
+img: ims_site.png
+thumbnail: ims_site.png
+alt: Integrated Media Systems
+project-date: October 2016
+client: Integrated Media Systems
+description: Technology solutions for the home and office. It's high tech, without the high stress!
+location: Innovation Depot
+
+---

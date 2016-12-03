@@ -4,14 +4,14 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: Simple Sites Birmingham
 email: simplesitesbham@gmail.com
-description: "Simple Sites Birmingham is the only complete website management provider in Birmingham. We build, host and maintain simple websites for businesses that value modern design. Don't hire another full-time employee. Hire simple."
+description: "Simple Sites is the only custom complete website management provider in Birmingham. We build, host and maintain simple websites for businesses that value modern design. Don't hire another full-time employee. Hire simple."
 
 
 # Team names, titles and social links
 people:
 - name: Robert James
   pic: 4
-  position: Owner, Lead Marketer
+  position: Lead Designer and Penguin Expert
   social:
     - title: twitter
       url: https://twitter.com/robtherover
@@ -22,7 +22,7 @@ people:
 
 - name: Nicole Mubarak
   pic: 6
-  position: Lead Designer
+  position: Designer and Hockey Fanatic
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Andrew Cartwright
   pic: 5
-  position: Lead Developer
+  position: Lead Developer and Cat Lover
   social:
     - title: twitter
       url: https://twitter.com/ItsATLC
